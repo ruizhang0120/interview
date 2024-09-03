@@ -1,0 +1,75 @@
+BODY {
+	FONT-SIZE: 11pt; BACKGROUND: #ffffff; COLOR: #000000; FONT-FAMILY: "Times New Roman", Times, serif
+}
+A {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+H1 {
+	FONT-SIZE: 13pt; MARGIN-BOTTOM: 10px
+}
+H2 {
+	FONT-SIZE: 12pt; MARGIN-BOTTOM: 10px
+}
+H3 {
+	MARGIN-TOP: 0px; FONT-SIZE: 11pt
+}
+#ninnbar {
+	DISPLAY: none
+}
+#header {
+	DISPLAY: none
+}
+#left {
+	DISPLAY: none
+}
+#right {
+	DISPLAY: none
+}
+#right_so {
+	DISPLAY: none
+}
+#wrapper {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#content_columns {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: auto; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#column1 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 48%; PADDING-TOP: 0px
+}
+#column1_so {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 48%; PADDING-TOP: 0px
+}
+#column2 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 48%; PADDING-TOP: 0px
+}
+#column2_so {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 48%; PADDING-TOP: 0px
+}
+.thumbnail {
+	FLOAT: right
+}
+#footer {
+	CLEAR: both
+}
+#box_jobsearch {
+	CLEAR: both; BORDER-RIGHT: black 1px dashed; PADDING-RIGHT: 5px; BORDER-TOP: black 1px dashed; PADDING-LEFT: 5px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: black 1px dashed; PADDING-TOP: 5px; BORDER-BOTTOM: black 1px dashed
+}
+#box_industries {
+	CLEAR: both; BORDER-RIGHT: black 1px dashed; PADDING-RIGHT: 5px; BORDER-TOP: black 1px dashed; PADDING-LEFT: 5px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: black 1px dashed; PADDING-TOP: 5px; BORDER-BOTTOM: black 1px dashed
+}
+.box_w1 {
+	CLEAR: both; BORDER-RIGHT: black 1px dashed; PADDING-RIGHT: 5px; BORDER-TOP: black 1px dashed; PADDING-LEFT: 5px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: black 1px dashed; PADDING-TOP: 5px; BORDER-BOTTOM: black 1px dashed
+}
+.box_w2 {
+	CLEAR: both; BORDER-RIGHT: black 1px dashed; PADDING-RIGHT: 5px; BORDER-TOP: black 1px dashed; PADDING-LEFT: 5px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: black 1px dashed; PADDING-TOP: 5px; BORDER-BOTTOM: black 1px dashed
+}
+#box_account {
+	CLEAR: both; BORDER-RIGHT: black 1px dashed; PADDING-RIGHT: 5px; BORDER-TOP: black 1px dashed; PADDING-LEFT: 5px; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 5px; BORDER-LEFT: black 1px dashed; PADDING-TOP: 5px; BORDER-BOTTOM: black 1px dashed
+}
+TABLE {
+	WIDTH: 100%; TEXT-ALIGN: left
+}
+TD {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; PADDING-TOP: 3px
+}

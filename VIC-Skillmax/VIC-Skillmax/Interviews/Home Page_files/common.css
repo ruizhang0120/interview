@@ -1,0 +1,114 @@
+A.links {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.links:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: #cc0000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.thislinks {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #336699; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.thislinks:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #cc0000; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.info {
+	Z-INDEX: 24; COLOR: #000; POSITION: relative; TEXT-DECORATION: none
+}
+A.info:hover {
+	Z-INDEX: 25; CURSOR: help
+}
+A.info SPAN {
+	DISPLAY: none
+}
+A.info:hover SPAN {
+	BORDER-RIGHT: #ffcc00 1px solid; BORDER-TOP: #ffcc00 1px solid; DISPLAY: block; FONT-WEIGHT: normal; LEFT: -250px; BORDER-LEFT: #ffcc00 1px solid; WIDTH: 200px; COLOR: #000; BORDER-BOTTOM: #ffcc00 1px solid; POSITION: absolute; TOP: 5px; BACKGROUND-COLOR: #ffffcc; TEXT-ALIGN: left
+}
+DIV.row {
+	CLEAR: both; PADDING-TOP: 10px
+}
+DIV.row SPAN.left {
+	FONT-WEIGHT: bold; FLOAT: left; WIDTH: 100%; TEXT-ALIGN: left
+}
+DIV.row SPAN.right {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FLOAT: right; PADDING-BOTTOM: 3px; WIDTH: 100%; COLOR: #fff; PADDING-TOP: 3px; TEXT-ALIGN: right
+}
+DIV.spacer {
+	CLEAR: both
+}
+IMG.noBorder {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+P.warning {
+	COLOR: rgb(255,0,0)
+}
+SPAN.attention {
+	COLOR: rgb(255,0,0)
+}
+SPAN.conditionalMandatory {
+	COLOR: rgb(0,0,0)
+}
+SPAN.formError {
+	FONT-WEIGHT: bold; COLOR: rgb(255,0,0)
+}
+SPAN.formNote {
+	FONT-SIZE: 12px; COLOR: rgb(255,0,0); FONT-FAMILY: arial, helvetica
+}
+SPAN.mandatory {
+	COLOR: rgb(255,0,0)
+}
+TABLE#row {
+	WIDTH: 100%
+}
+TABLE.greyForm TD {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; VERTICAL-ALIGN: top; PADDING-TOP: 10px
+}
+TD.centered {
+	TEXT-ALIGN: center
+}
+TD.formButtons {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+TD.formcontent {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+TD.formError {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; PADDING-BOTTOM: 5px; COLOR: rgb(255,0,0); PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+TD.formhead {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: left
+}
+TD.formlabel {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TEXT-ALIGN: right
+}
+TD.success {
+	VERTICAL-ALIGN: top
+}
+TD.warning {
+	VERTICAL-ALIGN: top
+}
+.centerDataColumn {
+	TEXT-ALIGN: center; text-valign: center
+}
+TABLE.scoreKey TD {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 3px; BORDER-TOP: 0px; PADDING-LEFT: 3px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: middle; BORDER-LEFT: 0px; PADDING-TOP: 3px; BORDER-BOTTOM: 0px
+}
+TD.aboveAverageScoreKey {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #00ff00
+}
+TD.upperAverageScoreKey {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #99cc00
+}
+TD.averageScoreKey {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #008080
+}
+TD.lowerAverageScoreKey {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #ff9900
+}
+TD.belowAverageScoreKey {
+	FONT-WEIGHT: bold; BACKGROUND-COLOR: #ff3300
+}
+DIV#helpImg {
+	FLOAT: right
+}
+IMG.help {
+	PADDING-RIGHT: 5px; CURSOR: help
+}

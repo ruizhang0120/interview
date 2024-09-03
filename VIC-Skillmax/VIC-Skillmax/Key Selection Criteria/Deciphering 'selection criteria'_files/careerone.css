@@ -1,0 +1,294 @@
+#rightnav A:link {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 9px; PADDING-BOTTOM: 0px; COLOR: #1b73a3; PADDING-TOP: 0px; FONT-FAMILY: Tahoma, Geneva, sans-serif; TEXT-DECORATION: none
+}
+#rightnav A:visited {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 9px; PADDING-BOTTOM: 0px; COLOR: #1b73a3; PADDING-TOP: 0px; FONT-FAMILY: Tahoma, Geneva, sans-serif; TEXT-DECORATION: none
+}
+#rightnav A:hover {
+	FONT-SIZE: 9px; COLOR: #1b73a3; BACKGROUND-COLOR: #ebe9e9; TEXT-DECORATION: none
+}
+#rightnav A:active {
+	COLOR: #1b73a3
+}
+#rightnav A.image:link {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+#rightnav A.image:visited {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+A.orange:link {
+	COLOR: #eaa001! important; TEXT-DECORATION: none
+}
+A.orange:visited {
+	COLOR: #eaa001! important; TEXT-DECORATION: none
+}
+.orange A:link {
+	COLOR: #eaa001! important; TEXT-DECORATION: none
+}
+.orange A:visited {
+	COLOR: #eaa001! important; TEXT-DECORATION: none
+}
+A.orange:hover {
+	COLOR: #eaa001; BACKGROUND-COLOR: #ebe9e9; TEXT-DECORATION: none
+}
+.orange A:hover {
+	COLOR: #eaa001; BACKGROUND-COLOR: #ebe9e9; TEXT-DECORATION: none
+}
+A.orange:active {
+	COLOR: #eaa001; TEXT-DECORATION: none
+}
+.orange A:active {
+	COLOR: #eaa001; TEXT-DECORATION: none
+}
+#rightnav {
+	BACKGROUND: url(http://www.careerone.com.au/images/rightnav_bottom.gif) #f1f0f1 no-repeat 0px 100%; PADDING-BOTTOM: 7px; FONT: 11px Tahoma, Geneva, Verdana, sans-serif; WIDTH: 156px; POSITION: relative
+}
+#rightnav P {
+	MARGIN: 0px
+}
+DIV.smallPromoBox {
+	BORDER-RIGHT: #ebe9e9 2px solid; BORDER-TOP: #ebe9e9 2px solid; DISPLAY: inline-block; MARGIN: 0px 0px 5px; BORDER-LEFT: #ebe9e9 2px solid; BORDER-BOTTOM: #ebe9e9 2px solid
+}
+DIV.rightnavAdBox {
+	BORDER-RIGHT: #ebe9e9 2px solid; BORDER-TOP: #ebe9e9 2px solid; DISPLAY: inline-block; MARGIN: 0px 0px 5px; BORDER-LEFT: #ebe9e9 2px solid; BORDER-BOTTOM: #ebe9e9 2px solid
+}
+DIV.smallRightBox {
+	BORDER-RIGHT: #ebe9e9 2px solid; BORDER-TOP: #ebe9e9 2px solid; DISPLAY: inline-block; MARGIN: 0px 0px 5px; BORDER-LEFT: #ebe9e9 2px solid; BORDER-BOTTOM: #ebe9e9 2px solid
+}
+DIV.rightnavAdBox {
+	TEXT-ALIGN: center
+}
+DIV.smallPromoBox DIV {
+	FONT-SIZE: 9px; COLOR: #474747
+}
+DIV.rightnavAdBox DIV {
+	FONT-SIZE: 9px; COLOR: #474747
+}
+DIV.smallRightBox DIV {
+	FONT-SIZE: 9px; COLOR: #474747
+}
+DIV.smallPromoBox A:link {
+	FONT-SIZE: 9px; COLOR: #eaa001
+}
+DIV.rightnavAdBox A:link {
+	FONT-SIZE: 9px; COLOR: #eaa001
+}
+DIV.smallPromoBox A:visited {
+	FONT-SIZE: 9px; COLOR: #eaa001
+}
+DIV.rightnavAdBox A:visited {
+	FONT-SIZE: 9px; COLOR: #eaa001
+}
+DIV.smallRightBox A:link {
+	FONT-SIZE: 9px
+}
+DIV.smallRightBox A:visited {
+	FONT-SIZE: 9px
+}
+#horoscopes {
+	MARGIN: 18px 0px 14px
+}
+#horoscopes DIV.boxEborder {
+	PADDING-RIGHT: 2px; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px
+}
+#papersDrop {
+	MARGIN: 2px 0px 10px
+}
+#papersDrop SELECT {
+	FONT-SIZE: 11px; WIDTH: 124px
+}
+#rightnavPapers {
+	PADDING-RIGHT: 0px; DISPLAY: inline-block; PADDING-LEFT: 3px; PADDING-BOTTOM: 4px; MARGIN: 14px 0px; PADDING-TOP: 4px
+}
+#rightnavPapers IMG {
+	MARGIN: 0px 0px 6px
+}
+#greyBorder {
+	BORDER-RIGHT: #90928f 1px solid; BORDER-TOP: #90928f 0px solid; BORDER-LEFT: #90928f 1px solid; BORDER-BOTTOM: #90928f 0px solid
+}
+#horoscopes A.h2 {
+	DISPLAY: block; MARGIN: 1px 0px 3px
+}
+#starSign {
+	FLOAT: left; MARGIN: 2px 2px 0px 0px; WIDTH: 37px
+}
+#weather {
+	DISPLAY: block; MARGIN: 0px 0px 8px
+}
+#weatherBox {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 10px; BACKGROUND: url(http://www.careerone.com.au/images/dotted_line.gif) #fff repeat-x 0px 100%; PADDING-BOTTOM: 5px; COLOR: #6a6a6a; PADDING-TOP: 5px; HEIGHT: 90px
+}
+#weatherBox DIV {
+	FONT-SIZE: 10px
+}
+#weatherData {
+	MARGIN: 0px 0px 0px 8px; HEIGHT: 50px
+}
+#weatherCity {
+	FONT-WEIGHT: bold; FLOAT: left
+}
+#weatherBox A:link {
+	FONT-SIZE: 9px
+}
+#weatherBox A:visited {
+	FONT-SIZE: 9px
+}
+FORM.weatherForm {
+	MARGIN: 0px
+}
+FORM.weatherForm SELECT {
+	FONT-SIZE: 10px; MARGIN: 4px 0px 0px 8px; WIDTH: 123px
+}
+#weatherHiLow {
+	FONT-WEIGHT: bold; FLOAT: right; MARGIN: 0px 5px 0px 0px
+}
+IMG.wIcon {
+	FLOAT: left; MARGIN: 0px 4px 0px 0px
+}
+.box_w3 {
+	MARGIN: 0px 0px 6px; WIDTH: 146px
+}
+.box_w3 .top {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% top; PADDING-LEFT: 0px; FONT-SIZE: 1px; BACKGROUND-IMAGE: url(http://www.careerone.com.au/images/box_147_top.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; LINE-HEIGHT: 1px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 10px
+}
+.box_w3 .bottom {
+	PADDING-RIGHT: 0px; BACKGROUND-POSITION: 50% top; PADDING-LEFT: 0px; BACKGROUND-IMAGE: url(http://www.careerone.com.au/images/box_147_bottom.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 9px
+}
+.box_w3 .content {
+	BACKGROUND-POSITION: 50% top; BACKGROUND-IMAGE: url(http://www.careerone.com.au/images/box_147_bg.gif); BACKGROUND-REPEAT: repeat-y; TEXT-ALIGN: center
+}
+.box_w3 .content P {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 10px; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; TEXT-ALIGN: left
+}
+.box_w3 .content B {
+	FONT: bold 10px tahoma, san-serif; COLOR: #43316b
+}
+.box_w3 .content A {
+	FONT-SIZE: 10px
+}
+#horoscope {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 2px; TEXT-ALIGN: left
+}
+#weatherH {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 10px; FONT-SIZE: 11px; PADDING-BOTTOM: 2px; MARGIN: 0px; PADDING-TOP: 2px; TEXT-ALIGN: left
+}
+#horoscope A:link {
+	FONT-SIZE: 11px! important
+}
+#weatherH A:link {
+	FONT-SIZE: 11px! important
+}
+#horoscope {
+	BACKGROUND: url(http://www.careerone.com.au/images/horoscope_header.gif) no-repeat 0px 0px
+}
+#weatherH {
+	BACKGROUND: url(http://www.careerone.com.au/images/weather_header.gif) no-repeat 0px 0px
+}
+.box_w4 {
+	BACKGROUND: #fff
+}
+.box_w3 {
+	MARGIN-LEFT: 4px
+}
+#horoscope A {
+	PADDING-LEFT: 0px; COLOR: #4c377c; TEXT-DECORATION: none
+}
+#rightnav H5 A {
+	PADDING-LEFT: 0px; COLOR: #4c377c; TEXT-DECORATION: none
+}
+#horoscope A:hover {
+	COLOR: #4c377c; TEXT-DECORATION: underline
+}
+#rightnav H5 A:hover {
+	COLOR: #4c377c; TEXT-DECORATION: underline
+}
+.box_w4 A {
+	PADDING-LEFT: 0px; COLOR: #696b68
+}
+.box_w4 A:hover {
+	PADDING-LEFT: 0px; COLOR: #4c377c
+}
+.box_w4 EM {
+	FONT-SIZE: 10px; FONT-STYLE: normal
+}
+.box_w4 .content P {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 9px; PADDING-BOTTOM: 4px; PADDING-TOP: 4px; TEXT-ALIGN: left
+}
+.box_w4 .content A.orange {
+	FONT-SIZE: 9px
+}
+#rHeaderAdContent {
+	FONT: 11px tahoma, sans-serif; WIDTH: 577px; PADDING-TOP: 10px; TEXT-ALIGN: right
+}
+#rightAd {
+	FLOAT: right; MARGIN: 0px 30px 0px 10px
+}
+#left {
+	WIDTH: 7px; HEIGHT: 63px
+}
+#right {
+	WIDTH: 7px; HEIGHT: 63px
+}
+#left {
+	BACKGROUND: url(http://www.careerone.com.au/images/textad_border_l.gif) no-repeat 0px 0px; FLOAT: right; FONT-FAMILY: Verdana, Arial, Helvetica, Geneva, sans-serif
+}
+#content {
+	BACKGROUND: url(http://www.careerone.com.au/images/textad_border_both.gif) repeat-x 0px 0px; FLOAT: right; HEIGHT: 63px
+}
+#textAd UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 12px; LIST-STYLE-TYPE: none
+}
+#textAd LI {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; PADDING-BOTTOM: 0px; PADDING-TOP: 4px
+}
+#textAd A {
+	COLOR: #4c406e; TEXT-DECORATION: none
+}
+#textAd A:hover {
+	TEXT-DECORATION: underline
+}
+#networkNav {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: #efefef; PADDING-BOTTOM: 0px; MARGIN: 40px 0px 0px; FONT: 12px tahoma, sans-serif; WIDTH: 147px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#networkNav LI {
+	PADDING-RIGHT: 0px; DISPLAY: inline; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+#networkNav STRONG {
+	DISPLAY: block; FONT-SIZE: 11px
+}
+#networkNav A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 15px; PADDING-BOTTOM: 5px; MARGIN: 0px; COLOR: #7a7a7a; PADDING-TOP: 5px; TEXT-DECORATION: none
+}
+.advertiserlogos {
+	PADDING-RIGHT: 0px; BORDER-TOP: #d0d2d7 1px solid; MARGIN-TOP: 15px; PADDING-LEFT: 0px; MARGIN-BOTTOM: 40px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #d0d2d7 1px solid; TEXT-DECORATION: underline
+}
+DIV#networkNav A {
+	WIDTH: 147px; voice-family: ""
+}
+UNKNOWN {
+	WIDTH: 117px
+}
+#networkNav A:hover {
+	BACKGROUND: #e6e5e5
+}
+#first {
+	FONT-WEIGHT: bold
+}
+#first A:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#second A {
+	
+}
+#second A:hover {
+	BACKGROUND-COLOR: #e6e5e5
+}
+#last {
+	FONT-SIZE: 12px
+}
+#last A {
+	
+}
+#last A:hover {
+	BACKGROUND-COLOR: #e6e5e5
+}

@@ -1,0 +1,135 @@
+P {
+	FONT-SIZE: 9pt; FONT-FAMILY: arial, sans-serif
+}
+BODY {
+	FONT-SIZE: 9pt; FONT-FAMILY: arial, sans-serif
+}
+TD {
+	FONT-SIZE: 9pt; FONT-FAMILY: arial, sans-serif
+}
+.toolbarclr {
+	BACKGROUND-COLOR: #ffffff
+}
+.pagehead {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #ffffff; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #0066a6
+}
+.formheadlight {
+	FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #cc0000
+}
+.formhighlight {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #ff0000
+}
+.formhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #0066a6
+}
+.formlabel {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #3399cc
+}
+.formcontent {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #beb5ac
+}
+.formnavlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+TH.formlabel A {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+TH.formhead A {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.formnavlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #3399cc; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+TH.formlabel A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #3399cc; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+TH.formhead A:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #3399cc; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.listTable {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; WIDTH: 100%; BORDER-BOTTOM: 0px; spacing: 2px
+}
+.message {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #cc0000; FONT-FAMILY: arial, helvetica, sans-serif
+}
+.cellclra {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #beb5ac
+}
+.odd {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #beb5ac
+}
+.cellclrb {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #cccccc
+}
+.even {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #cccccc
+}
+.navlinkhead {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #ed1b24
+}
+.subnavlinkhead {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: arial, sans-serif; BACKGROUND-COLOR: #ed1b24
+}
+.navlink {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.navlink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 8pt; COLOR: #ed1b24; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.subnavlink {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ffffff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.subnavlink:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 8pt; COLOR: #ed1b24; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.reportlink {
+	FONT-SIZE: 9pt; COLOR: #0000ff; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.reportlink:hover {
+	FONT-SIZE: 9pt; COLOR: #ed1b24; FONT-FAMILY: arial, helvetica, sans-serif; TEXT-DECORATION: none
+}
+.note {
+	FONT-SIZE: 9pt; COLOR: #ff0000; FONT-FAMILY: arial, sans-serif
+}
+.notice {
+	FONT-SIZE: 9pt; COLOR: #4458b0; FONT-FAMILY: arial, sans-serif
+}
+.noticehead {
+	FONT-SIZE: 10pt; COLOR: #4458b0; FONT-FAMILY: arial, sans-serif
+}
+.dhtmlbutton {
+	BORDER-RIGHT: #333333 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #333333 1px solid; BACKGROUND-COLOR: #0066a6; TEXT-ALIGN: left
+}
+.overbutton {
+	BORDER-RIGHT: #333333 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 1px; PADDING-BOTTOM: 1px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 1px; BORDER-BOTTOM: #333333 1px solid; BACKGROUND-COLOR: #3399cc; TEXT-ALIGN: left
+}
+.downbutton {
+	BORDER-RIGHT: #333333 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #cccccc 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 0px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #333333 1px solid; BACKGROUND-COLOR: buttonface; TEXT-ALIGN: left
+}
+A.scroll:link {
+	FONT-SIZE: 9pt; COLOR: #ed1b24; FONT-FAMILY: arial, sans-serif; TEXT-DECORATION: none
+}
+A.scroll:active {
+	FONT-SIZE: 9pt; COLOR: #ed1b24; FONT-FAMILY: arial, sans-serif; TEXT-DECORATION: none
+}
+A.scroll:visited {
+	FONT-SIZE: 9pt; COLOR: #ed1b24; FONT-FAMILY: arial, sans-serif; TEXT-DECORATION: none
+}
+A.scroll:hover {
+	FONT-SIZE: 9pt; COLOR: #ed1b24; FONT-FAMILY: arial, sans-serif; TEXT-DECORATION: none
+}
+TABLE.newsframe {
+	
+}
+TD.newshead {
+	FONT-WEIGHT: bold; FONT-SIZE: 9pt; COLOR: #0066a6; FONT-FAMILY: arial, sans-serif
+}
+TD.news {
+	FONT-SIZE: 9pt; COLOR: #000000; FONT-FAMILY: arial, sans-serif
+}
+IMG.noBorder {
+	BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+HR.homeline {
+	COLOR: #3399cc; HEIGHT: 1px
+}
